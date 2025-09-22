@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Pablo Monticoli
 ## 🚀 Software Developer 
-Over 1 year of experience as a Software Developer and Data Analyst, graduated from the National Technological University. I'm from Córdoba, Argentina 🇦🇷. I'm specialized in developing unique applications and continuous learning. 
+Over 2 years of experience as a Software Developer and Data Analyst, graduated from the National Technological University. I'm from Córdoba, Argentina 🇦🇷. I'm specialized in developing unique applications and continuous learning. 
 
 ### 🔧 Current Work
 - 💼 Working at Allata as a Software Developer
